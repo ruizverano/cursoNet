@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Operaciones";
+}
+
+<h2>Operaciones</h2>
+
+@using (Html.BeginForm())
+{
+    <h3>Numero 1</h3>
+    <input type="number" id="_n1" name="_n1" value="" />
+
+    <hr />
+
+    <h3>Numero 2</h3>
+    <input type="number" id="_n2" name="_n2" value="" />
+
+    <hr />
+
+    <button type="submit" class="btn btn-success"> Sumar</button>
+}
+
+<div>La suma de los numeros es: @ViewBag.RESULTADO</div>

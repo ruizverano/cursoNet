@@ -1,0 +1,6 @@
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Comun\bin\Debug\Comun.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Comun\bin\Debug\Comun.pdb
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Comun\obj\Debug\Comun.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Comun\obj\Debug\Comun.pdb
