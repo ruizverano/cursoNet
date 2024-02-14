@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<main aria-labelledby="title">
+    <h2 id="textoColor" style="color:green" id ="title">@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>
+
+    <script>
+        function cambiarColor() {
+            $("#textoColor").css("color", "yellow")
+            $("#nuevoCodigo").html("<h1>Se Cambió el Color</h1>")
+        }
+    </script>
+
+    <p>Use this area to provide additional information.</p>
+
+    <div id="nuevoCodigo"></div>
+
+    <button type="button" onclick="cambiarColor()">Cambiar Color</button>
+    <hr />
+    <h1>Resultado Suma</h1>
+    <span>@ViewBag.RESULTADO_SUMA</span>
+</main>

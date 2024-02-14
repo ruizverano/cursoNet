@@ -1,0 +1,37 @@
+﻿@model Comun.Aplicacion.EmpleadoDTO
+@{
+    ViewBag.Title = "Detalle";
+}
+
+<h2>Detalle</h2>
+
+
+<hr />
+
+<a class="btn btn-success" href="@Url.Action("Index","Empleado")">Regresar</a>
+
+<label>Nombre</label>
+<input value="@Model.NOMEMP " />
+
+<br />
+
+<hr />
+
+<label>Sexo</label>
+<input value="@Model.SEXOEMP " />
+
+<br />
+
+<hr />
+
+<label>Edad</label>
+<input value="@Model.EDADEMP " />
+
+<br />
+
+<hr />
+
+<label>Sueldo</label>
+<input value="@Model.SUELDOEMP " />
+
+<br />

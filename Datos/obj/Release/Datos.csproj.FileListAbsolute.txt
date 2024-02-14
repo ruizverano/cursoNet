@@ -1,0 +1,14 @@
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\Datos.dll.config
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\Datos.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\Datos.pdb
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\EntityFramework.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\EntityFramework.xml
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\obj\Release\Datos.csproj.CopyComplete
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\obj\Release\Datos.dll
+C:\Users\CRISTIAN.RUIZV\source\repos\SIVICC\Datos\obj\Release\Datos.pdb

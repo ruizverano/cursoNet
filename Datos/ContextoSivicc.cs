@@ -17,7 +17,7 @@ namespace Datos
             Database.SetInitializer<ContextoSivicc>(null);
         }
 
-        public virtual DbSet<Empleado> EMPLEADO { get; set; }
+        public virtual DbSet<EMPLEADO> EMPLEADO { get; set; }
         public virtual DbSet<VM_PERSONAL_AGRUPADO> VM_PERSONAL_AGRUPADO { get; set; }
 
     }

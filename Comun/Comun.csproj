@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Apllicacion\EmpleadoDTO.cs" />
-    <Compile Include="Apllicacion\PersonalAgrupadoDTO.cs" />
+    <Compile Include="Aplicacion\EmpleadoDTO.cs" />
+    <Compile Include="Aplicacion\PersonalAgrupadoDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
