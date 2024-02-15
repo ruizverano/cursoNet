@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\migrations\\20240214213746_migracioninicialcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,17 +62,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Source\\Repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Source\\Repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T16:17:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T16:07:19.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T14:38:29.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Crear.cshtml*",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Crear.cshtml*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T13:53:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T12:09:15.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
               "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
               "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwCQAAAAjAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-14T23:23:11.698Z",
               "EditorCaption": ""
@@ -65,14 +150,14 @@
               "RelativeDocumentMoniker": "CrudNet8MVC\\Controllers\\InicioController.cs",
               "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Source\\Repos\\cursoNet\\net core\\CrudNet8MVC\\Controllers\\InicioController.cs",
               "RelativeToolTip": "CrudNet8MVC\\Controllers\\InicioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-14T22:38:16.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "20240214213746_MigracionInicialContacto.cs",
               "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.cs",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.cs",
@@ -85,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Program.cs",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Program.cs",
@@ -98,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Contacto.cs",
               "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Models\\Contacto.cs",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Models\\Contacto.cs",
@@ -111,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Datos\\AplicationDBContext.cs",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Datos\\AplicationDBContext.cs",
@@ -124,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CrudNet8MVC",
               "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Source\\Repos\\cursoNet\\net core\\CrudNet8MVC\\CrudNet8MVC.csproj",
               "RelativeDocumentMoniker": "CrudNet8MVC\\CrudNet8MVC.csproj",
@@ -137,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\appsettings.json",
               "RelativeDocumentMoniker": "CrudNet8MVC\\appsettings.json",
